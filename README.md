@@ -1,4 +1,4 @@
-# BCS_Classwork_PythonAPIChallenge
+# PythonAPIChallenge
 
 # Python API Homework - What's the Weather Like?
 
